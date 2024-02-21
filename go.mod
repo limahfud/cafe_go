@@ -1,3 +1,3 @@
-module cafe_order
+module cafe_go
 
 go 1.21.5
